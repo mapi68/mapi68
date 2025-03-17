@@ -84,8 +84,4 @@
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapi68&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" width="45%" />
 
----
-
-<sup>Last updated: 2025-03-16 02:45:11 UTC</sup>
-
 </div>
