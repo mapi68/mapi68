@@ -1,20 +1,18 @@
 <div align="center">
 
+# Hi there! I'm mapi68 👋
+
 ## 🏆 GitHub Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=mapi68&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 
 ## 📊 GitHub Statistics
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=mapi68&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" />
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mapi68&theme=algolia&hide_border=true&bg_color=0D1117" />
 
 <br clear="both"/>
 
 ## 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mapi68&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=2C98F0&point=2C98F0)](https://github.com/mapi68)
-
-## 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapi68&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" width="45%" />
 
 ## 📌 Repository Statistics
 
