@@ -5,10 +5,6 @@
 ## 🏆 GitHub Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=mapi68&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 
-## 📊 GitHub Statistics
-
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mapi68&theme=algolia&hide_border=true&bg_color=0D1117" />
-
 <br clear="both"/>
 
 ## 📈 Contribution Graph
@@ -22,6 +18,9 @@
 | [Dnscrypt Proxy Pihole](https://github.com/mapi68/dnscrypt-proxy-pihole) | ![Stars](https://img.shields.io/github/stars/mapi68/dnscrypt-proxy-pihole?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mapi68/dnscrypt-proxy-pihole?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mapi68/dnscrypt-proxy-pihole?style=flat-square&labelColor=343b41) |
 | [Pihole Script](https://github.com/mapi68/pihole-script) | ![Stars](https://img.shields.io/github/stars/mapi68/pihole-script?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mapi68/pihole-script?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mapi68/pihole-script?style=flat-square&labelColor=343b41) |
 | [Desktop Icon Backup Manager](https://github.com/mapi68/DesktopIconBackupManager) | ![Stars](https://img.shields.io/github/stars/mapi68/DesktopIconBackupManager?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mapi68/DesktopIconBackupManager?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mapi68/DesktopIconBackupManager?style=flat-square&labelColor=343b41) |
+
+## 📊 GitHub Statistics
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mapi68&theme=algolia&hide_border=true&bg_color=0D1117" />
 
 ## 👀 Profile Views
 <p>
