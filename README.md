@@ -2,9 +2,6 @@
 
 # Hi there! I'm mapi68 👋
 
-## 🏆 GitHub Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=mapi68&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-
 <br clear="both"/>
 
 ## 📈 Contribution Graph
