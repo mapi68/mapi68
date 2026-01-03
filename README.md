@@ -16,9 +16,6 @@
 | [Pihole Script](https://github.com/mapi68/pihole-script) | ![Stars](https://img.shields.io/github/stars/mapi68/pihole-script?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mapi68/pihole-script?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mapi68/pihole-script?style=flat-square&labelColor=343b41) |
 | [Desktop Icon Backup Manager](https://github.com/mapi68/desktop-icon-backup-manager) | ![Stars](https://img.shields.io/github/stars/mapi68/desktop-icon-backup-manager?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mapi68/desktop-icon-backup-manager?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mapi68/desktop-icon-backup-manager?style=flat-square&labelColor=343b41) |
 
-## 📊 GitHub Statistics
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mapi68&theme=algolia&hide_border=true&bg_color=0D1117" />
-
 ## 👀 Profile Views
 <p>
     <img src="https://komarev.com/ghpvc/?username=mapi68&label=Profile%20views&color=2C98F0&style=flat" alt="Profile views"/>
