@@ -66,7 +66,7 @@ Your Raspberry Pi Swiss Army Knife for system information — temperature, load,
 
 ### 🕳️ [Pihole Script](https://github.com/mapi68/pihole-script)
 
-Customize the number of queries displayed in your Pi-hole dashboard — for both v5 and v6.
+A growing collection of Bash scripts to manage, customize, and extend Pi-hole beyond its default capabilities.
 
 ![Stars](https://img.shields.io/github/stars/mapi68/pihole-script?style=for-the-badge&logo=github&labelColor=0D1117&color=58A6FF)
 ![Forks](https://img.shields.io/github/forks/mapi68/pihole-script?style=for-the-badge&logo=git&labelColor=0D1117&color=3FB950)
