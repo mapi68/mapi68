@@ -80,10 +80,6 @@ A growing collection of Bash scripts to manage, customize, and extend Pi-hole be
 
 ## 📈 Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mapi68&custom_title=Contribution+Graph&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/mapi68)
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mapi68&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=false)](https://git.io/streak-stats)
 
 <br/>
