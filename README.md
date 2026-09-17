@@ -78,12 +78,6 @@ A growing collection of Bash scripts to manage, customize, and extend Pi-hole be
 
 ---
 
-## 📈 Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mapi68&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=false)](https://git.io/streak-stats)
-
-<br/>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=mapi68&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/github/followers/mapi68?label=Followers&style=for-the-badge&color=3FB950&labelColor=0D1117&logo=github"/>
@@ -95,7 +89,7 @@ A growing collection of Bash scripts to manage, customize, and extend Pi-hole be
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C98F0,50:1a3a5c,100:0D1117&height=120&section=footer" width="100%"/>
 
